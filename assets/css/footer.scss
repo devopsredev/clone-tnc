@@ -1,0 +1,33 @@
+$black: #262626;
+
+.container {
+    width: 1110px;
+    margin: auto;
+}
+footer {
+    .footer-main {
+        background: $black;
+        color: white;
+        ul {
+            li {
+                margin-bottom: 5px;
+                a {
+                    text-decoration: none;
+                    color: white;
+                }
+            }
+        }
+        .group-social {
+            li {
+                a {
+                    svg {
+                        font-size: 28px;
+                    }
+                }
+            }
+        }
+    }
+    .footer-secondary {
+        background: white;
+    }
+}

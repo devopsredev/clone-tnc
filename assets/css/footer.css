@@ -1,0 +1,22 @@
+.container {
+  width: 1110px;
+  margin: auto;
+}
+
+footer .footer-main {
+  background: #262626;
+  color: white;
+}
+footer .footer-main ul li {
+  margin-bottom: 5px;
+}
+footer .footer-main ul li a {
+  text-decoration: none;
+  color: white;
+}
+footer .footer-main .group-social li a svg {
+  font-size: 28px;
+}
+footer .footer-secondary {
+  background: white;
+}/*# sourceMappingURL=footer.css.map */
